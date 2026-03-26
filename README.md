@@ -201,7 +201,7 @@ Notas importantes de compatibilidad:
 ## Clonar e iniciar
 
 ```powershell
-git clone <tu-repo>
+git clone git@github.com:GRK000/Split-The-Reality.git
 Set-Location "SplitTheReality"
 ```
 
@@ -249,5 +249,3 @@ El modulo `desktop` toma recursos desde `../assets` como working directory.
 - Separacion de sistemas (input/combat/ui) en clases dedicadas para escalar mantenibilidad.
 
 ---
-
-Si quieres, se puede agregar una segunda version del README orientada a contribucion (convenciones de codigo, roadmap y checklist de PR).
